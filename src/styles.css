@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap");
 
 body {
-  color: rgb(240, 129, 14);
+  color: #f0810e;
   font-family: "Roboto Condensed", sans-serif;
   /* background-image: url(https://images.unsplash.com/photo-1508389377389-b8221c0bcc9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80); */
   background-position: top top;
@@ -68,6 +68,6 @@ h2 {
   }
   .container {
     width: 100%;
-    margin: 8% auto;
+    margin: auto;
   }
 }
