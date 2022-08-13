@@ -25,7 +25,7 @@
 .preloader .spinner {
   width: 50px;
   height: 50px;
-  background-color: rgb(240, 129, 14);
+  background-color: #ffc301;
   -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
   animation: sk-rotateplane 1.2s infinite ease-in-out;
 }

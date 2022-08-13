@@ -5,7 +5,7 @@ import Timer from "./components/Countdown/Timer";
 import Optin from "./components/Optin/Optin";
 import "./styles.css";
 import TsParticles from "./components/TsParticles/TsParticles";
-import logo from "./img/logo-1.png";
+import logo from "./img/logo.png";
 
 function App() {
   return (
@@ -22,8 +22,7 @@ function App() {
                 width={300}
               />
             </h1>
-
-            {/* <h1>bracketsmiths</h1> */}
+            <h2>Website</h2>
             <h2>
               Coming Soon{" "}
               <span role="img" aria-label="rocket">
